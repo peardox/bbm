@@ -138,7 +138,6 @@
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"wallPaint_half.bbmod","CopyToMask":-1,"filePath":"datafiles/Kenney/RetroMedievalKit",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"wallPaint.bbmod","CopyToMask":-1,"filePath":"datafiles/Kenney/RetroMedievalKit",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Material.png","CopyToMask":-1,"filePath":"datafiles",},
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"refplane.bbmod","CopyToMask":-1,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"transrefplane.bbmod","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "isEcma": false,

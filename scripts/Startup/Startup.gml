@@ -551,7 +551,6 @@ if(global.useinst) {
 		global.active_model = 1;
 	} else {
 		cnt += load_models_from(working_directory + "Kenney/RetroMedievalKit", true); 
-		cnt += load_models_from("D:\\blend\\test\\Refplane"); 
 	}
 }
 
